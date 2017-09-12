@@ -35,7 +35,6 @@ void main()
 {
     int i,len;
  char exp[max],temp;
- exp[0]='(';
  printf("enter the expression:");
  scanf("%s",exp);
  len=strlen(exp);
